@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\diego\\DIO\\trilha-net-conclusao-tdd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA22A448-B174-47BD-AA85-A95E16DE97F1}|Calculadora\\Calculadora.csproj|c:\\diego\\dio\\trilha-net-conclusao-tdd\\calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA22A448-B174-47BD-AA85-A95E16DE97F1}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53594AD3-F2AD-49E8-8553-21B0075E350C}|TestCalculadora\\TestCalculadora.csproj|c:\\diego\\dio\\trilha-net-conclusao-tdd\\testcalculadora\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53594AD3-F2AD-49E8-8553-21B0075E350C}|TestCalculadora\\TestCalculadora.csproj|solutionrelative:testcalculadora\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA22A448-B174-47BD-AA85-A95E16DE97F1}|Calculadora\\Calculadora.csproj|c:\\diego\\dio\\trilha-net-conclusao-tdd\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA22A448-B174-47BD-AA85-A95E16DE97F1}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53594AD3-F2AD-49E8-8553-21B0075E350C}|TestCalculadora\\TestCalculadora.csproj|c:\\diego\\dio\\trilha-net-conclusao-tdd\\testcalculadora\\testcalculadora.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53594AD3-F2AD-49E8-8553-21B0075E350C}|TestCalculadora\\TestCalculadora.csproj|solutionrelative:testcalculadora\\testcalculadora.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestCalculadora.csproj",
+              "DocumentMoniker": "C:\\diego\\DIO\\trilha-net-conclusao-tdd\\TestCalculadora\\TestCalculadora.csproj",
+              "RelativeDocumentMoniker": "TestCalculadora\\TestCalculadora.csproj",
+              "ToolTip": "C:\\diego\\DIO\\trilha-net-conclusao-tdd\\TestCalculadora\\TestCalculadora.csproj",
+              "RelativeToolTip": "TestCalculadora\\TestCalculadora.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T14:31:01.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\diego\\DIO\\trilha-net-conclusao-tdd\\Calculadora\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora.cs",
+              "ToolTip": "C:\\diego\\DIO\\trilha-net-conclusao-tdd\\Calculadora\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora\\Calculadora.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAArwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:30:34.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\diego\\DIO\\trilha-net-conclusao-tdd\\TestCalculadora\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestCalculadora\\UnitTest1.cs",
+              "ToolTip": "C:\\diego\\DIO\\trilha-net-conclusao-tdd\\TestCalculadora\\UnitTest1.cs",
+              "RelativeToolTip": "TestCalculadora\\UnitTest1.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAADgv1MAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:29:33.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\diego\\DIO\\trilha-net-conclusao-tdd\\Calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Program.cs",
+              "ToolTip": "C:\\diego\\DIO\\trilha-net-conclusao-tdd\\Calculadora\\Program.cs",
+              "RelativeToolTip": "Calculadora\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:28:10.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
